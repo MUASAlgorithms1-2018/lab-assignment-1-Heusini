@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sebastianheusinger/Documents/Nextcloud/UAS-Munich/FH_S3/AlgorithemDatenstrukturen/Projects-Heusini/lab2/main.cpp
+iostream
+-
+

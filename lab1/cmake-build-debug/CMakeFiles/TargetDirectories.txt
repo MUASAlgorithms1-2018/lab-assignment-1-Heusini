@@ -1,0 +1,3 @@
+/Users/sebastianheusinger/Documents/Nextcloud/UAS-Munich/FH_S3/AlgorithemDatenstrukturen/Projects-Heusini/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sebastianheusinger/Documents/Nextcloud/UAS-Munich/FH_S3/AlgorithemDatenstrukturen/Projects-Heusini/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sebastianheusinger/Documents/Nextcloud/UAS-Munich/FH_S3/AlgorithemDatenstrukturen/Projects-Heusini/lab1/cmake-build-debug/CMakeFiles/Projects_Heusini.dir
